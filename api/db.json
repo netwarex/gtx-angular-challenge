@@ -1,0 +1,23 @@
+{
+  "credentials": [
+    {
+      "name": "My first credentials",
+      "username": "admin",
+      "password": "fFVAP9pw",
+      "pwdbId": "gentics",
+      "id": 1
+    },
+    {
+      "name": "My second authorization data",
+      "username": "guest",
+      "password": "87pPPGbM",
+      "pwdbId": "gentics",
+      "id": 2
+    }
+  ],
+  "pwdb": [
+    {
+      "id": "gentics"
+    }
+  ]
+}
